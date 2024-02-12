@@ -7,7 +7,7 @@
 ## github: keeping update the feature branch and main branch
 
 - Item 1 keeping your feature branch updated with the main branch
-- sub-item : switch to your feature branch.<br>
+	- sub-item : switch to your feature branch.<br>
 	'git checkout experiment/new-experiment'.<br>
 	'git fetch'.<br>
 	'git merge origin/main'.<br>
