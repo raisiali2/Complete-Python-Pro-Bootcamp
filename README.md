@@ -12,5 +12,10 @@
 	'git fetch'.<br>
 	'git merge origin/main'.<br>
 	'git push origin experiment/new-experiment'.<br>
+<<<<<<< HEAD
 - Item 2 test
 
+=======
+	
+- Item 2 test
+>>>>>>> experiment/new-experiment
