@@ -43,6 +43,45 @@ in the above case the data of `input()` function stored in the variable `name` a
 
 Now we have all peice of data which associated with `name` we can refer to it anytime and access to its data. 
 
+## interactive coding exercise python
+
+- there are two variables, a and b from input 
+````python
+a = input("input a: ")
+b = input("input b: ")
+
+```
+
+- my code to switch the values of variables
+- need for temporary store that keep value of a which change in the next step
+- then we use this temporary store that has value of a before change, give to b.  
+
+```python
+    c = a
+    a = b
+    b = c
+
+    print("a:" + a)
+    print("b:" + b)
+```
+- next do the same exercise for string value
+
+```python
+a = input("enter string: ")
+b = input("enter string:")
+
+# solution
+c = a
+a = b
+b = c
+
+print("a:" + a)
+print("b:" + b)
+```
+- creating variable allow to store value in it and change value of it at anytime as well as we can refer to it anytime and print the value of it.  
+
+
+
 
 
 
